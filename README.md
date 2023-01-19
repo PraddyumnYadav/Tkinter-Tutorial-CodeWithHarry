@@ -1,6 +1,6 @@
 # Tkinter-Tutorial
-This Repository Have all the code and other materials to learn Tkinter Provided By CodeWithHarry.
-**_Note: _**This Course is Not Created By Me.
+- This Repository Have all the code and other materials to learn Tkinter Provided By CodeWithHarry.
+- **_Note:_** This Course is Not Created By Me.
 # Facts
 - This Code is not totaly same Like CodeWithharry's GUI Course.
 - The Link of The Video from which this code is Derived From is both in ReadMe As Well as in Python File.
